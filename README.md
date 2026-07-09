@@ -1,4 +1,4 @@
-# Hi, I'm Sami 👋
+# Hi, My name is Sami!
 
 Bachelor of Engineering (ICT) from Finland.
 
