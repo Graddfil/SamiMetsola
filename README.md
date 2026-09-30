@@ -8,6 +8,8 @@ Recently graduated ICT Engineer interested in software development, AI, automati
 
 Python, C#/.NET, TypeScript, React, PostgreSQL, REST APIs
 
+## Current
+
 Currently developing personal projects and expanding my skills in AI-assisted software development, automation and backend development.
 
 ## Contact
