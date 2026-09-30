@@ -1,25 +1,14 @@
 # Hi, My name is Sami!
 
-Bachelor of Engineering (ICT) from Finland.
+ICT Engineer | Software Development & AI
 
-I enjoy building practical software using modern web technologies and continuously expanding my knowledge of software development.
+Recently graduated ICT Engineer interested in software development, AI, automation and integrations.
 
 ## Technologies
 
-- React
-- TypeScript
-- JavaScript
-- Supabase
-- PostgreSQL
-- Deno
-- REST APIs
-- Git
+Python, C#/.NET, TypeScript, React, PostgreSQL, REST APIs
 
-## Currently learning
-
-- Azure
-- Cloud Development
-- Backend Architecture
+Currently developing personal projects and expanding my skills in AI-assisted software development, automation and backend development.
 
 ## Contact
 
